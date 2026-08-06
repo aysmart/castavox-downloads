@@ -4,7 +4,16 @@ Installers for **Castavox** and **Pulpitry**. This repository holds no source
 code — only released binaries, so that the download links are public while the
 projects themselves are not.
 
-Get the files from the [Releases](../../releases) page, or from
+The installers are **release assets**, not files in this repository — GitHub
+caps repository files at 100 MB and Castavox is nearly three times that. So
+there is nothing to see in the file list above; the downloads are here:
+
+| | macOS (Apple silicon) | Windows | Linux |
+|---|---|---|---|
+| **Castavox** | [0.1.0 · 272 MB](https://github.com/aysmart/castavox-downloads/releases/download/castavox-v0.1.0/Castavox-0.1.0-macos-arm64.dmg) | not published yet | not published yet |
+| **Pulpitry** | [0.1.0 · 60 MB](https://github.com/aysmart/castavox-downloads/releases/download/pulpitry-v0.1.0/Pulpitry-0.1.0-macos-arm64.dmg) | not published yet | not published yet |
+
+All releases, with notes: [Releases](../../releases). Or use
 [castavox.com/download](https://castavox.com/download).
 
 ## These builds are not signed
