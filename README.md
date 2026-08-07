@@ -39,7 +39,7 @@ be sure it arrived intact.
 
 ## Source code
 
-**Pulpitry** is proprietary. No source is offered.
+**Pulpitry** is proprietary, © 2026 Ayorinde G. Smart. No source is offered.
 
 **Castavox** is a derivative work of [OBS Studio](https://obsproject.com) and is
 licensed under the **GNU General Public License, version 2 or later**. If you
@@ -48,7 +48,8 @@ source code.
 
 ### Written offer
 
-In accordance with GPLv2 section 3(b), the copyright holder hereby offers, valid
+In accordance with GPLv2 section 3(b), Ayorinde G. Smart, the copyright holder
+of the Castavox additions, hereby offers, valid
 for **three years** from the date each binary was distributed, to give any third
 party a complete machine-readable copy of the corresponding source code for the
 version of Castavox they received, for no more than the cost of physically
