@@ -45,6 +45,19 @@
     "language": "English"
   },
   {
+    "id": "CPDV",
+    "name": "Catholic Public Domain Version",
+    "year": 2009,
+    "file": "CPDV.tsv.gz",
+    "verseCount": 35812,
+    "checksum": "8af2a6c780752a60",
+    "sha256": "f3b47bbc55a6ff268be7940b7c7864e9ffc87836ecb000341a8ff946bb6c693d",
+    "bytes": 1620341,
+    "language": "English",
+    "missingVerses": 0,
+    "note": "The Catholic canon: 73 books, including Tobit, Judith, Wisdom, Sirach, Baruch, 1 Maccabees, 2 Maccabees."
+  },
+  {
     "id": "CSB",
     "name": "Christian Standard Bible",
     "year": 2017,
