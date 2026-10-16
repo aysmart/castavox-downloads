@@ -1,0 +1,38 @@
+[
+  {
+    "id": "yoruba",
+    "name": "Yoruba",
+    "year": 2024,
+    "file": "yoruba.zip",
+    "verseCount": 0,
+    "checksum": "8abe52925a6a97f994caf2c412efcabead1bad58400b17d303a140aa84734b3e",
+    "sha256": "8abe52925a6a97f994caf2c412efcabead1bad58400b17d303a140aa84734b3e",
+    "bytes": 105660133,
+    "language": "Yoruba",
+    "bundled": false
+  },
+  {
+    "id": "igbo",
+    "name": "Igbo",
+    "year": 2024,
+    "file": "igbo.zip",
+    "verseCount": 0,
+    "checksum": "bf9a97436c044993595243c14d826c980a7151cc060cb971e6d0539d0b3ecbce",
+    "sha256": "bf9a97436c044993595243c14d826c980a7151cc060cb971e6d0539d0b3ecbce",
+    "bytes": 105683842,
+    "language": "Igbo",
+    "bundled": false
+  },
+  {
+    "id": "hausa",
+    "name": "Hausa",
+    "year": 2024,
+    "file": "hausa.zip",
+    "verseCount": 0,
+    "checksum": "d2688327289cc49dad2f311a6abf9ae5eda82bd24b84b620f1cf6079b99e1521",
+    "sha256": "d2688327289cc49dad2f311a6abf9ae5eda82bd24b84b620f1cf6079b99e1521",
+    "bytes": 105654530,
+    "language": "Hausa",
+    "bundled": false
+  }
+]
