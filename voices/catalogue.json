@@ -21,7 +21,8 @@
     "sha256": "bf9a97436c044993595243c14d826c980a7151cc060cb971e6d0539d0b3ecbce",
     "bytes": 105683842,
     "language": "Igbo",
-    "bundled": false
+    "bundled": false,
+    "note": "Speaks slowly — about two and a half times longer than the words need. Usable, but it falls behind a quick speaker."
   },
   {
     "id": "hausa",
@@ -33,7 +34,8 @@
     "sha256": "d2688327289cc49dad2f311a6abf9ae5eda82bd24b84b620f1cf6079b99e1521",
     "bytes": 105654530,
     "language": "Hausa",
-    "bundled": false
+    "bundled": false,
+    "note": "Not recommended yet: this voice speaks about six times longer than the words need and repeats itself, so a sentence can sound like two people. The fault is in the published model, not in Castavox."
   },
   {
     "id": "spanish",
