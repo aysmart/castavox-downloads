@@ -34,5 +34,41 @@
     "bytes": 105654530,
     "language": "Hausa",
     "bundled": false
+  },
+  {
+    "id": "spanish",
+    "name": "Spanish",
+    "year": 2023,
+    "file": "spanish.zip",
+    "verseCount": 0,
+    "checksum": "a3467f4579e970328bc52b2ddea1ceda38f83381309f36c37ab41187d46ad570",
+    "sha256": "a3467f4579e970328bc52b2ddea1ceda38f83381309f36c37ab41187d46ad570",
+    "bytes": 58377606,
+    "language": "Spanish",
+    "bundled": false
+  },
+  {
+    "id": "french",
+    "name": "French",
+    "year": 2023,
+    "file": "french.zip",
+    "verseCount": 0,
+    "checksum": "71b1d083ea8a1eb635a9c97e3501fe4cf5d8bc9df443461da704a377e0c88ff2",
+    "sha256": "71b1d083ea8a1eb635a9c97e3501fe4cf5d8bc9df443461da704a377e0c88ff2",
+    "bytes": 58412732,
+    "language": "French",
+    "bundled": false
+  },
+  {
+    "id": "portuguese",
+    "name": "Portuguese",
+    "year": 2023,
+    "file": "portuguese.zip",
+    "verseCount": 0,
+    "checksum": "45078198b6ef410c3bd5ee2d5d0465e72356184946da4a66a7b104fe8441efaf",
+    "sha256": "45078198b6ef410c3bd5ee2d5d0465e72356184946da4a66a7b104fe8441efaf",
+    "bytes": 58374834,
+    "language": "Portuguese",
+    "bundled": false
   }
 ]
