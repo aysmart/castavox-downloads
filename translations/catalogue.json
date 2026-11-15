@@ -45,6 +45,20 @@
     "language": "English"
   },
   {
+    "id": "BTNT",
+    "name": "BibliaTodo New Translation",
+    "year": 2026,
+    "file": "BTNT.tsv.gz",
+    "licence": "BibliaTodo Free Use and Distribution Agreement v1.7",
+    "attribution": "Holy Bible, BibliaTodo New Translation (BTNT). Published by BibliaTodo Bible Society, an imprint of BibliaTodo LLC. https://www.bibliatodo.org/en/btnt/",
+    "language": "English",
+    "note": "BibliaTodo's release of 6 November 2026, as published on eBible.org.",
+    "sha256": "8c37c70ceb70bf6c319a199209b45339266417ea2a9c349c9262f8475c191aba",
+    "bytes": 1262676,
+    "verseCount": 31102,
+    "checksum": "fe61a3f6df1d45e6"
+  },
+  {
     "id": "CPDV",
     "name": "Catholic Public Domain Version",
     "year": 2009,
@@ -305,6 +319,63 @@
     "language": "French"
   },
   {
+    "id": "JND",
+    "name": "Bible J.N. Darby (Fran\u00e7ais)",
+    "year": 1885,
+    "file": "JND.tsv.gz",
+    "language": "French",
+    "sha256": "5c5289e76a059d586b137ea882d2e544d85debd44e32d5f976b77d000d8ffe0f",
+    "bytes": 1431294,
+    "verseCount": 31097,
+    "checksum": "3e4c4f9788d11cc6"
+  },
+  {
+    "id": "OST",
+    "name": "Bible Ostervald (Fran\u00e7ais)",
+    "year": 1744,
+    "file": "OST.tsv.gz",
+    "language": "French",
+    "sha256": "e59dc0e6a9ce9aee63bd542b66360d6fd12a8d1efe1a76284c6f75f7c8a50206",
+    "bytes": 1429759,
+    "verseCount": 31101,
+    "checksum": "b6e5696b4e8f6f89"
+  },
+  {
+    "id": "DEU",
+    "name": "Lutherbibel 1912 (Deutsch)",
+    "year": 1912,
+    "file": "DEU.tsv.gz",
+    "language": "German",
+    "sha256": "ed1fca03159fb4c8893011b16e9ca09e471a30eb7611d6eed3c4ba5da8ceb50b",
+    "bytes": 1401179,
+    "verseCount": 31102,
+    "checksum": "d55ee45505c68755"
+  },
+  {
+    "id": "ELB",
+    "name": "Unrevidierte Elberfelder (Deutsch)",
+    "year": 1905,
+    "file": "ELB.tsv.gz",
+    "language": "German",
+    "sha256": "301b25e1515f83e51bfbfeb2e55ee4822914966d950d2a7717fd92e26b83cfd8",
+    "bytes": 1449985,
+    "verseCount": 31102,
+    "checksum": "4a55119f31919fa1"
+  },
+  {
+    "id": "SCH",
+    "name": "Schlachter-Bibel 1951",
+    "year": 1951,
+    "file": "SCH.tsv.gz",
+    "licence": "CC BY 4.0",
+    "attribution": "Schlachter-Bibel 1951 \u00a9 1951 Genfer Bibelgesellschaft",
+    "language": "German",
+    "sha256": "0bd0dc2c6e30c76012015a29aaf794c541c7a9fa37365e736bbaf14dced2f29b",
+    "bytes": 1485898,
+    "verseCount": 31101,
+    "checksum": "f8767265f2947dda"
+  },
+  {
     "id": "HAU",
     "name": "Littafi Mai Tsarki (Hausa)",
     "year": 2020,
@@ -331,6 +402,33 @@
     "language": "Igbo"
   },
   {
+    "id": "NBVP",
+    "name": "Nova B\u00edblia Viva (Portugu\u00eas)",
+    "year": 2010,
+    "file": "NBVP.tsv.gz",
+    "licence": "CC BY-SA 4.0",
+    "attribution": "Biblica\u00ae Open Nova B\u00edblia Viva\u2122 \u00a9 2007, 2010 Biblica, Inc.",
+    "language": "Portuguese",
+    "sha256": "10924d87908a4908178aacc869438ab423e89a5068c65a4700a42adea791b287",
+    "bytes": 1561845,
+    "verseCount": 31104,
+    "checksum": "ebbef2e64e356d62"
+  },
+  {
+    "id": "NTBBR",
+    "name": "Nova Tradu\u00e7\u00e3o BibliaTodo (Portugu\u00eas)",
+    "year": 2026,
+    "file": "NTBBR.tsv.gz",
+    "licence": "BibliaTodo Free Use and Distribution Agreement v1.7",
+    "attribution": "B\u00edblia Sagrada, Nova Tradu\u00e7\u00e3o BibliaTodo (NTB-BR). Publicada por BibliaTodo Bible Society, selo editorial da BibliaTodo LLC. https://www.bibliatodo.org/pt/ntb-br/",
+    "language": "Portuguese",
+    "note": "BibliaTodo's release of 6 November 2026, as published on eBible.org.",
+    "sha256": "9f5508ef7a7ccf7bbe333448c20be67cc4eeaaccfcf0675b777de3e1613ee4fb",
+    "bytes": 1301093,
+    "verseCount": 31102,
+    "checksum": "924f105a9cb6e373"
+  },
+  {
     "id": "POR",
     "name": "B\u00edblia Livre (Portugu\u00eas)",
     "year": 2018,
@@ -340,6 +438,69 @@
     "sha256": "bb27a61dbb3599fe0bac574dc5248d634861db40fe0da69da491ec8b63bac225",
     "bytes": 1344677,
     "language": "Portuguese"
+  },
+  {
+    "id": "RUS",
+    "name": "\u0421\u0438\u043d\u043e\u0434\u0430\u043b\u044c\u043d\u044b\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434 (\u0420\u0443\u0441\u0441\u043a\u0438\u0439)",
+    "year": 1876,
+    "file": "RUS.tsv.gz",
+    "language": "Russian",
+    "sha256": "5827dac2fa5635473d52b53b936ee735d97586b85bae5774b40aa223cd55500f",
+    "bytes": 1554922,
+    "verseCount": 31107,
+    "checksum": "530852346ae9190c"
+  },
+  {
+    "id": "BES",
+    "name": "La Biblia en Espa\u00f1ol Sencillo",
+    "year": 2026,
+    "file": "BES.tsv.gz",
+    "language": "Spanish",
+    "sha256": "026c35f3d50bdc6585a56e85003bfc290149f5b59594d08b62416955515c2f6d",
+    "bytes": 1284926,
+    "verseCount": 31101,
+    "checksum": "182cebc61b05afe9"
+  },
+  {
+    "id": "NBV",
+    "name": "Nueva Biblia Viva (Espa\u00f1ol)",
+    "year": 2008,
+    "file": "NBV.tsv.gz",
+    "licence": "CC BY-SA 4.0",
+    "attribution": "Biblica\u00ae Open Nueva Biblia Viva\u2122 \u00a9 2006, 2008 Biblica, Inc.",
+    "language": "Spanish",
+    "note": "A paraphrase that joins some verses into one; each joined verse shows the passage it belongs to.",
+    "sha256": "3dbe3e4efee1373eb4ce6525b80b409317ba6298afc29119f68296411e0c631a",
+    "bytes": 1503097,
+    "verseCount": 31102,
+    "checksum": "d2e57e4efcefa453"
+  },
+  {
+    "id": "NTBT",
+    "name": "Nueva Traducci\u00f3n BibliaTodo (Espa\u00f1ol)",
+    "year": 2026,
+    "file": "NTBT.tsv.gz",
+    "licence": "BibliaTodo Free Use and Distribution Agreement v1.7",
+    "attribution": "Santa Biblia, Nueva Traducci\u00f3n BibliaTodo (NTBT). Publicada por BibliaTodo Bible Society, sello editorial de BibliaTodo LLC. https://www.bibliatodo.org/es/ntbt/",
+    "language": "Spanish",
+    "note": "BibliaTodo's release of 6 November 2026, as published on eBible.org.",
+    "sha256": "73b4a1c62e46400fe3390fec6bddc5d21818bfd3f9a01d22347109668f322b9e",
+    "bytes": 1322826,
+    "verseCount": 31102,
+    "checksum": "d962d866e1d6ee13"
+  },
+  {
+    "id": "PDT",
+    "name": "Palabra de Dios para ti (Espa\u00f1ol)",
+    "year": 2020,
+    "file": "PDT.tsv.gz",
+    "licence": "CC BY 4.0",
+    "attribution": "Palabra de Dios para ti \u00a9 2020 Asociaci\u00f3n B\u00edblica Latinoamericana",
+    "language": "Spanish",
+    "sha256": "e3085f678264c3bc7f3ba96fbcc8de26adca87327e8d0501dfd3cf732ec7ced6",
+    "bytes": 1331952,
+    "verseCount": 31080,
+    "checksum": "2f90790c3d6019c9"
   },
   {
     "id": "SPA",
@@ -353,6 +514,32 @@
     "language": "Spanish"
   },
   {
+    "id": "VBL",
+    "name": "Versi\u00f3n Biblia Libre (Espa\u00f1ol)",
+    "year": 2020,
+    "file": "VBL.tsv.gz",
+    "licence": "CC BY-SA 4.0",
+    "attribution": "Versi\u00f3n Biblia Libre \u00a9 2018\u20132020 Jonathan Gallagher y Shelly Barrios de Avila",
+    "language": "Spanish",
+    "sha256": "e083e5c4e8c2bb2a23164c5d77cc49dbde68abd5f8290e0ea8387440239b75c1",
+    "bytes": 1461958,
+    "verseCount": 31086,
+    "checksum": "cbbc5507f566b1db"
+  },
+  {
+    "id": "NMM",
+    "name": "Neno: Maandiko Matakatifu (Kiswahili)",
+    "year": 2024,
+    "file": "NMM.tsv.gz",
+    "licence": "CC BY-SA 4.0",
+    "attribution": "Biblica\u00ae Toleo Wazi Neno: Maandiko Matakatifu\u2122 \u00a9 2018, 2024 Biblica, Inc.",
+    "language": "Swahili",
+    "sha256": "0a6048d3b1ba58395146dd0db140ba06f8063cc03c40f7a283912a5ed6623921",
+    "bytes": 1345723,
+    "verseCount": 31102,
+    "checksum": "4255d96ad1d77c22"
+  },
+  {
     "id": "SWH",
     "name": "Biblia Takatifu (Swahili)",
     "year": 2018,
@@ -364,6 +551,19 @@
     "sha256": "4c63522147c795fe3e6160b12a9a3a0efa938876e7e4bfbf9f1ea7b8beee7399",
     "bytes": 1348062,
     "language": "Swahili"
+  },
+  {
+    "id": "ASANTE",
+    "name": "Asante Twi Bible",
+    "year": 2020,
+    "file": "ASANTE.tsv.gz",
+    "licence": "CC BY-SA 4.0",
+    "attribution": "Biblica\u00ae open edition \u00a9 Biblica, Inc.",
+    "language": "Twi",
+    "sha256": "a99f3e2df00af144638024516f5a897abe830cd56c5e463f5ac1b69eddb353e6",
+    "bytes": 1300049,
+    "verseCount": 31098,
+    "checksum": "2de1f668dab3ac00"
   },
   {
     "id": "TWI",
