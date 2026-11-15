@@ -53,10 +53,10 @@
     "attribution": "Holy Bible, BibliaTodo New Translation (BTNT). Published by BibliaTodo Bible Society, an imprint of BibliaTodo LLC. https://www.bibliatodo.org/en/btnt/",
     "language": "English",
     "note": "BibliaTodo's release of 6 November 2026, as published on eBible.org.",
-    "sha256": "8c37c70ceb70bf6c319a199209b45339266417ea2a9c349c9262f8475c191aba",
-    "bytes": 1262676,
+    "sha256": "296672fb92f38a23ee5db3dfedd011de6c620f60a80674483a8d23885e78b7bd",
+    "bytes": 1262673,
     "verseCount": 31102,
-    "checksum": "fe61a3f6df1d45e6"
+    "checksum": "cd8dfb8af3cf9e3d"
   },
   {
     "id": "CPDV",
@@ -335,10 +335,10 @@
     "year": 1744,
     "file": "OST.tsv.gz",
     "language": "French",
-    "sha256": "e59dc0e6a9ce9aee63bd542b66360d6fd12a8d1efe1a76284c6f75f7c8a50206",
-    "bytes": 1429759,
+    "sha256": "2bf28ae3520a57bf526eac5bb0810e6c21c5bb3426ff09814b80641d2514e08d",
+    "bytes": 1429760,
     "verseCount": 31101,
-    "checksum": "b6e5696b4e8f6f89"
+    "checksum": "ead5410b02e1f7ba"
   },
   {
     "id": "DEU",
@@ -423,10 +423,10 @@
     "attribution": "B\u00edblia Sagrada, Nova Tradu\u00e7\u00e3o BibliaTodo (NTB-BR). Publicada por BibliaTodo Bible Society, selo editorial da BibliaTodo LLC. https://www.bibliatodo.org/pt/ntb-br/",
     "language": "Portuguese",
     "note": "BibliaTodo's release of 6 November 2026, as published on eBible.org.",
-    "sha256": "9f5508ef7a7ccf7bbe333448c20be67cc4eeaaccfcf0675b777de3e1613ee4fb",
-    "bytes": 1301093,
+    "sha256": "0672da899996344b27a48e4a4d3aa74ce602ca8c524a7768907ed6076c51a128",
+    "bytes": 1301097,
     "verseCount": 31102,
-    "checksum": "924f105a9cb6e373"
+    "checksum": "a50d53c2adcd2fca"
   },
   {
     "id": "POR",
@@ -484,10 +484,10 @@
     "attribution": "Santa Biblia, Nueva Traducci\u00f3n BibliaTodo (NTBT). Publicada por BibliaTodo Bible Society, sello editorial de BibliaTodo LLC. https://www.bibliatodo.org/es/ntbt/",
     "language": "Spanish",
     "note": "BibliaTodo's release of 6 November 2026, as published on eBible.org.",
-    "sha256": "73b4a1c62e46400fe3390fec6bddc5d21818bfd3f9a01d22347109668f322b9e",
-    "bytes": 1322826,
+    "sha256": "ffd28078c45358b1f32e13a933193c23402de7fc39739b80e07be0fd75014b72",
+    "bytes": 1322827,
     "verseCount": 31102,
-    "checksum": "d962d866e1d6ee13"
+    "checksum": "1dcaeb0b3c29b2be"
   },
   {
     "id": "PDT",
